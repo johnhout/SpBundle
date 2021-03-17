@@ -1,5 +1,5 @@
 {
-    "name": "lightsaml/sp-bundle",
+    "name": "johnhout/sp-bundle",
     "license": "MIT",
     "type": "symfony-bundle",
     "description": "Light SAML2 SP Symfony Bundle",
@@ -9,6 +9,12 @@
             "name": "Milos Tomic",
             "email": "tmilos@gmail.com",
             "homepage": "http://github.com/tmilos",
+            "role": "Developer"
+        },
+        {
+            "name": "John in 't Hout",
+            "email": "johnhout@gmail.com",
+            "homepage": "http://github.com/johnhout",
             "role": "Developer"
         }
     ],
